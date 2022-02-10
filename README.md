@@ -1,21 +1,16 @@
-# librarysystem
+# 图书管理系统
 
-> A Vue.js project
+> 大二上期末答辩用到的一个基于vue和vuex的图书管理系统
 
-## Build Setup
+
+
+## 操作流程
 
 ``` bash
-# install dependencies
-npm install
+npm install  # 安装依赖
 
-# serve with hot reload at localhost:8080
-npm run dev
+npm run dev # 在localhost:8080 网站上查看
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+npm run build # 将网页打包
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
